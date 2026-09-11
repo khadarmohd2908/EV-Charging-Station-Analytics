@@ -91,3 +91,7 @@ The project identifies high-performing stations,
 peak charging periods, popular EV models, charger utilization,
 and operational issues to support data-driven decisions.
 
+Screenshots of Dashboard
+<img width="1280" height="749" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/e7756fc3-951a-4780-af25-e7f6ac7428fc" />
+
+
